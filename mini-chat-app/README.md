@@ -1,6 +1,6 @@
 # 💬 Mini Chat Real-Time — Laravel + Reverb
 
-> Tugas Praktikum · Pemrograman Berbasis Web · Primakara
+> Tugas Praktikum · Pemrograman Berbasis Web
 
 Aplikasi mini chat real-time yang dibangun menggunakan **Laravel**, **Laravel Reverb** (WebSocket), dan **Laravel Echo**. Pengguna dapat saling berkirim pesan secara real-time tanpa perlu refresh halaman.
 
